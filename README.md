@@ -1,4 +1,3 @@
-
 # VScode-Markdown-theme-Maserhe
 ## 前提
 你已经安装好 `markdown-preview-enhanced`这个强大的插件了，
